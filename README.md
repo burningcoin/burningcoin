@@ -3,4 +3,6 @@
   <a href="https://cloverlxcky.atabook.org">ata</a>
 ⠀ ⠀ ⠀ ⠀ ⠀⸝⸝⠀ ⠀ ⠀ ⠀ ⠀
   <a href="https://pinterest.com/lxckyghlett">pinterest
-</p>
+⠀ ⠀ ⠀ ⠀⸝⸝⠀ ⠀ ⠀ ⠀ ⠀
+    <a href="https://en.pronouns.page/@fireoinylxck">prns page
+  </p>
