@@ -7,7 +7,7 @@
   <a href="https://en.pronouns.page/@fireoinylxck">prns page</a>
 </p>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=novatorem&show_offline=false&background_color=33450d&interchange=true&profanity=false&hide_remaster=true&bar_color=8d9d39&bar_color_cover=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffa200&bar_color_cover=false">
   </a>
 </p>
