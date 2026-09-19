@@ -1,4 +1,4 @@
-<p align="center"> <img width="646" height="446" alt="fireoiny bfdi" src="https://github.com/user-attachments/assets/cb031591-194f-4f62-ad36-5c480fac2e42" />
+<p align="center"> <img width="736" height="559" alt="#sawgaty #bfdi" src="https://github.com/user-attachments/assets/5bbc8813-ef5d-478b-af2a-679d83d497b2" />
 <p align="center">
   <a href="https://cloverlxcky.atabook.org">ata</a>
 ⠀ ⠀ ⠀ ⠀ ⠀⸝⸝⠀ ⠀ ⠀ ⠀ ⠀
